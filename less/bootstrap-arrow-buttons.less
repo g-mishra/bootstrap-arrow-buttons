@@ -1,5 +1,4 @@
-
-@import "../bower_components/bootstrap/less/variables.less";
+@import "../node_modules/bootstrap/less/variables.less";
 
 @button-height: 32px;
 @button-corner-square-size: @button-height / sqrt(2);
@@ -60,7 +59,7 @@
 }
 .btn-arrow-right:after,
 .btn-arrow-left:before { /* bring arrow pointers to front */
-    z-index: 1;
+    z-index: 3;
 }
 .btn-arrow-right:before,
 .btn-arrow-left:after { /* hide arrow tails background */

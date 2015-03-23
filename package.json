@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/tjwebb/bootstrap-arrow-buttons/issues"
   },
-  "homepage": "https://github.com/tjwebb/bootstrap-arrow-buttons"
+  "homepage": "https://github.com/tjwebb/bootstrap-arrow-buttons",
+  "peerDependencies": {
+    "bootstrap": ">=3.0.0"
+  }
 }
