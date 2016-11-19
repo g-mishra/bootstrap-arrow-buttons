@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-arrow-buttons",
+  "name": "bootstrap-arrow-buttons-css-only",
   "version": "1.0.5",
   "description": "Bootstrap Arrow Buttons",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tjwebb/bootstrap-arrow-buttons.git"
+    "url": "https://github.com/g-mishra/bootstrap-arrow-buttons.git"
   },
   "keywords": [
     "bootstrap",
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/tjwebb/bootstrap-arrow-buttons",
   "peerDependencies": {
-    "bootstrap": ">=3.0.0"
+     "bootstrap-css-only": ">=3.3.7"
   }
 }
