@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-arrow-buttons",
+  "name": "bootstrap-arrow-buttons-css-only",
   "version": "0.1.0",
   "homepage": "https://github.com/shpoont/bootstrap-arrow-buttons",
   "authors": [
@@ -8,7 +8,7 @@
   "description": "Arrow shaped buttons for bootstrap",
   "main": "dist/css/bootstrap-arrow-buttons.css",
   "keywords": [
-    "bootstrap",
+    "bootstrap-css-only",
     "css",
     "buttons",
     "arrows"
@@ -22,6 +22,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": ">=3.0.0"
+    "bootstrap-css-only": ">=3.3.7"
   }
 }
